@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30b25d16.chunk.css",
+    "main.js": "/static/js/main.6ec63ab5.chunk.js",
+    "main.js.map": "/static/js/main.6ec63ab5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4bfa2f26.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4bfa2f26.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.9f774c63.chunk.js": "/static/js/2.9f774c63.chunk.js",
+    "static/js/2.9f774c63.chunk.js.map": "/static/js/2.9f774c63.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.30b25d16.chunk.css.map": "/static/css/main.30b25d16.chunk.css.map",
+    "static/js/2.9f774c63.chunk.js.LICENSE.txt": "/static/js/2.9f774c63.chunk.js.LICENSE.txt",
+    "static/media/Card Payment_Flatline.a8a70fae.svg": "/static/media/Card Payment_Flatline.a8a70fae.svg",
+    "static/media/Card Payment_Isometric.eca3a27e.svg": "/static/media/Card Payment_Isometric.eca3a27e.svg",
+    "static/media/Card Payment_Monochromatic.fc6b5d15.svg": "/static/media/Card Payment_Monochromatic.fc6b5d15.svg",
+    "static/media/Card Payment_Outline.0cb9ba1a.svg": "/static/media/Card Payment_Outline.0cb9ba1a.svg",
+    "static/media/Data Arranging.c95f6d34.svg": "/static/media/Data Arranging.c95f6d34.svg",
+    "static/media/Online payment_Isometric.bb5fa92d.svg": "/static/media/Online payment_Isometric.bb5fa92d.svg",
+    "static/media/Online payment_Two Color.a54c49d5.svg": "/static/media/Online payment_Two Color.a54c49d5.svg",
+    "static/media/download.98bed85d.jpg": "/static/media/download.98bed85d.jpg",
+    "static/media/portfolio.css": "/static/media/hero-bg.d4e4dfc4.jpg",
+    "static/media/home_black_24dp.a0c1b0a7.svg": "/static/media/home_black_24dp.a0c1b0a7.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/perfil.400f97a1.png": "/static/media/perfil.400f97a1.png",
+    "static/media/profile-img.23977f23.jpg": "/static/media/profile-img.23977f23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bfa2f26.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9f774c63.chunk.js",
+    "static/css/main.30b25d16.chunk.css",
+    "static/js/main.6ec63ab5.chunk.js"
+  ]
+}
